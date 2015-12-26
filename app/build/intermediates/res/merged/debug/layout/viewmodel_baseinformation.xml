@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<ImageView
+    android:id="@+id/baseinformation_imageiewl"
+    android:src="@drawable/notification_template_icon_bg"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/baseinformation_edittext"
+        android:text="fsdafsadfsafasfsa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <ImageView
+        android:id="@+id/baseinformation_imageiewr"
+        android:src="@drawable/notification_template_icon_bg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout><!-- From: file:/Users/novas/nongjiuser/app/src/main/res/layout/viewmodel_baseinformation.xml -->
